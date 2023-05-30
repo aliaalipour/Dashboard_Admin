@@ -1,0 +1,12 @@
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\bin\Debug\net5.0\Dashboard_admin.Shared.deps.json
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\bin\Debug\net5.0\Dashboard_admin.Shared.dll
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\bin\Debug\net5.0\Dashboard_admin.Shared.pdb
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\Dashboard_admin.Shared.csproj.AssemblyReference.cache
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\Dashboard_admin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\Dashboard_admin.Shared.AssemblyInfoInputs.cache
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\Dashboard_admin.Shared.AssemblyInfo.cs
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\Dashboard_admin.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\Dashboard_admin.Shared.dll
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\refint\Dashboard_admin.Shared.dll
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\Dashboard_admin.Shared.pdb
+C:\Users\Aalipour\source\repos\Dashboard_admin\Shared\obj\Debug\net5.0\ref\Dashboard_admin.Shared.dll
